@@ -8,7 +8,7 @@ print("Subtraction:", sub(5, 3))
 print("Multiplication:", mul(5, 3))
 print("Division:", div(5, 3))
 
-chai = ["strong","kadak","kadak","kadak"]
-strong_chai = list(filter(lambda chai: chai =="strong",chai))
+chai = ["strong", "kadak", "kadak", "kadak"]
+strong_chai = list(filter(lambda chai: chai == "strong", chai))
 print(strong_chai)
 print(chai)
